@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "77193418185",
+    "firebase_url": "https://firestorepractice-b2a68.firebaseio.com",
+    "project_id": "firestorepractice-b2a68",
+    "storage_bucket": "firestorepractice-b2a68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77193418185:android:c1105fb9eddd82ce69c418",
+        "android_client_info": {
+          "package_name": "imransk.ml.firestorepractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77193418185-gb08m5tuvgfrehaumh1mnn4i3ii01s9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "imransk.ml.firestorepractice",
+            "certificate_hash": "869e1e391b90c54ea1ee381d3ec80f4e1abbd5aa"
+          }
+        },
+        {
+          "client_id": "77193418185-lsocpm605qu3uor7luf5np6i4so0q2db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIaazdwRO4sZNjH3yQVZT2_qJWPicWOz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77193418185-lsocpm605qu3uor7luf5np6i4so0q2db.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
